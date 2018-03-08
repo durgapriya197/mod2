@@ -1,0 +1,1 @@
+http://www.faichi.com/blog/automated-selenium-testing-framework-using-testng-webdriver
